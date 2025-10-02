@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Egzamin_02_2025_01_02</string>
+    <string name="odkurzacz_wy_czony">Odkurzacz wyłączony</string>
+    <string name="w_cz">Włącz</string>
+    <string name="status_na_adowany">Status: naładowany</string>
+    <string name="odkurzacz">Odkurzacz</string>
+    <string name="numer_prania_nie_podano">Numer prania: nie podano</string>
+    <string name="zatwierd">Zatwierdź</string>
+    <string name="podaj_nr_prania_1_12">Podaj nr prania 1..12</string>
+    <string name="pralka">Pralka</string>
+    <string name="autor_2137692137">Autor: 2137692137</string>
+    <string name="urz_dzenia_domowe">Urządzenia Domowe</string>
+</resources>
