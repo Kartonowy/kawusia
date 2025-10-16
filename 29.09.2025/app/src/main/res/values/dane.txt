@@ -1,0 +1,3 @@
+"Zakupy: chleb, mas?o, ser",
+"Do zrobienia: obiad, umy? pod?ogi",
+"weekend: kino, spacer z psem"
